@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/JSense/",
+    "build": "vite build --base=/js_113_Mariia-Ann/",
     "preview": "vite preview"
   },
   "devDependencies": {
